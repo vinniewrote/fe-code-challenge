@@ -1,6 +1,5 @@
 .Confirmation {
-    width: 30%;
-    margin: 40px auto;
+    grid-column-start: 2;
     padding: 25px;
     border: 1px solid $color-dashboard;
     border-radius: 8px;

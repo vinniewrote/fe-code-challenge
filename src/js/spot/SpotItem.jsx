@@ -1,4 +1,4 @@
-import React, {PureComponent} from 'react';
+import React, { PureComponent } from 'react';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
 import Image from 'common/Image';
@@ -9,35 +9,26 @@ export default class SpotItem extends PureComponent {
         showDetails: PropTypes.bool,
         isSelected: PropTypes.bool,
         data: PropTypes.object.isRequired,
-        onDetailsClick: PropTypes.func
+        onDetailsClick: PropTypes.func,
     };
     static defaultProps = {
-        showDetails: true
+        showDetails: true,
     };
 
     _onDetailsClick = evt => {
-        const {
-            data,
-            onDetailsClick
-        } = this.props;
-
+        const { data, onDetailsClick } = this.props;
         onDetailsClick(data);
-    }
+    };
 
     render() {
         const {
             showDetails,
             isSelected,
-            data: {
-                image,
-                distance,
-                title
-            }
+            data: { image, distance, title },
         } = this.props;
-        const classes = classNames(
-            'SpotItem',
-            {'SpotItem-selected': isSelected}
-        );
+        const classes = classNames('SpotItem', {
+            'SpotItem-selected': isSelected,
+        });
 
         return (
             <div className={classes}>
@@ -45,7 +36,11 @@ export default class SpotItem extends PureComponent {
                 <div className="SpotItem-info">
                     <h2>{title}</h2>
                     <p>{distance}</p>
-                    {showDetails && <TextButton onClick={this._onDetailsClick}>Details</TextButton>}
+                    {showDetails && (
+                        <TextButton onClick={this._onDetailsClick}>
+                            Details
+                        </TextButton>
+                    )}
                 </div>
             </div>
         );

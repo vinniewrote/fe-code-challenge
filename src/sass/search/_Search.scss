@@ -12,4 +12,52 @@ $spot-list-width: 460px;
     left: $spot-list-width;
     width: calc(100vw - #{$spot-list-width});
     height: 100vh;
+    transition: all 0.5s ease-in-out;
+
+    .details-backdrop {
+        background: $color-fuel;
+        height: 100%;
+        display: grid;
+        grid-template-columns: 25% auto 25%;
+        align-items: center;
+
+        .base-card {
+            background: $color-white;
+            padding: 30px;
+            border-radius: 4px;
+        }
+
+        .details-card {
+            grid-column-start: 2;
+            display: grid;
+            h4 {
+                font-size: 1.75em;
+                text-align: center;
+            }
+            h5 {
+                font-size: 1.65em;
+                text-align: left;
+            }
+        }
+
+        .close-window {
+            justify-self: end;
+            border: none;
+            background: transparent;
+            cursor: pointer;
+            font-weight: 700;
+        }
+
+        .book-it {
+            margin-top: 20px;
+            justify-self: center;
+        }
+    }
+    .fade-appear {
+        opacity: 0;
+    }
+    .fade-appear-done {
+        opacity: 1;
+        transition: opacity 300ms linear;
+    }
 }

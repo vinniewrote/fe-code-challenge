@@ -1,3 +1,60 @@
 .Checkout {
-    //
+    height: 100vh;
+    z-index: 200;
+    position: absolute;
+    width: 100%;
+
+    .checkout-backdrop {
+        background: $color-pavement;
+        height: 100%;
+        display: grid;
+        grid-template-columns: 30% auto 30%;
+        align-items: center;
+    }
+
+    .checkout-card {
+        border: 1px solid $color-dashboard;
+        border-radius: 4px;
+        grid-column-start: 2;
+        nav {
+            padding: 20px 10px;
+            background: $color-fuel;
+            border-radius: 4px 4px 0 0;
+            color: $color-white;
+            button {
+                background: none;
+                border: none;
+                cursor: pointer;
+                margin-top: 0;
+            }
+        }
+        button {
+            background: $color-go;
+            color: $color-white;
+            justify-self: right;
+            margin-top: 20px;
+        }
+        form {
+            display: grid;
+            input {
+                padding: 10px 30px;
+                border-radius: 4px;
+                margin: 10px 0;
+            }
+        }
+        .card {
+            padding: 20px;
+            background: $color-white;
+        }
+    }
+    .selected-details {
+        display: inline-flex;
+        width: 100%;
+        padding-bottom: 20px;
+        border-bottom: 1px solid $color-dashboard;
+        margin-bottom: 20px;
+        img {
+            margin-right: 20px;
+        }
+    }
 }

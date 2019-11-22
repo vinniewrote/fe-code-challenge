@@ -81,5 +81,526 @@
       "image": "https://res.cloudinary.com/spothero/image/upload/c_fill,f_auto,g_xy_center,h_98,q_50,w_145,x_2880,y_1920/v1446132663/sd29xbvmbl52loakpumb.jpg"
     }
   ],
-  "reservations": []
+  "reservations": [
+    {
+      "user": {
+        "spotId": 3,
+        "firstName": "Bob",
+        "lastName": "Loblaw",
+        "email": "bob.loblaw@mac.com",
+        "phone": "3124508976"
+      },
+      "id": 1
+    },
+    {
+      "user": {
+        "spotId": 3,
+        "firstName": "Bob",
+        "lastName": "Loblaw",
+        "email": "bob.loblaw@mac.com",
+        "phone": "3124508976"
+      },
+      "id": 2
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "Bob",
+        "lastName": "Loblaw",
+        "email": "bob.loblaw@mac.com",
+        "phone": "3124508976"
+      },
+      "id": 3
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "Bob",
+        "lastName": "Loblaw",
+        "email": "bob.loblaw@mac.com",
+        "phone": "3124508976"
+      },
+      "id": 4
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "Viz",
+        "lastName": "",
+        "email": "",
+        "phone": ""
+      },
+      "id": 5
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "Viz",
+        "lastName": "",
+        "email": "",
+        "phone": ""
+      },
+      "id": 6
+    },
+    {
+      "user": {
+        "spotId": 4,
+        "firstName": "Bob",
+        "lastName": "Loblaw",
+        "email": "bob.loblaw@mac.com",
+        "phone": "3124508976"
+      },
+      "id": 7
+    },
+    {
+      "user": {
+        "spotId": 4,
+        "firstName": "Bob",
+        "lastName": "Loblaw",
+        "email": "bob.loblaw@mac.com",
+        "phone": "3124508976"
+      },
+      "id": 8
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "khbv",
+        "lastName": "jbl",
+        "email": "kjbkd@ljbljblj.com",
+        "phone": "3125051312"
+      },
+      "id": 9
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "khbv",
+        "lastName": "jbl",
+        "email": "kjbkd@ljbljblj.com",
+        "phone": "3125051312"
+      },
+      "id": 10
+    },
+    {
+      "user": {
+        "spotId": 3,
+        "firstName": "th",
+        "lastName": "dgbdg",
+        "email": "soccer@fifa.com",
+        "phone": " dgbdd"
+      },
+      "id": 11
+    },
+    {
+      "user": {
+        "spotId": 3,
+        "firstName": "th",
+        "lastName": "dgbdg",
+        "email": "soccer@fifa.com",
+        "phone": " dgbdd"
+      },
+      "id": 12
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "fsvgv",
+        "lastName": "svgvc",
+        "email": "vizente.freeman@gmail.com",
+        "phone": "sffsf"
+      },
+      "id": 13
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "fsvgv",
+        "lastName": "svgvc",
+        "email": "",
+        "phone": "sffsf"
+      },
+      "id": 14
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "gsfsfasc",
+        "lastName": "svfv",
+        "email": "vfreeman312@gmail.com",
+        "phone": "fsfssf"
+      },
+      "id": 15
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "gsfsfasc",
+        "lastName": "svfv",
+        "email": "",
+        "phone": "fsfssf"
+      },
+      "id": 16
+    },
+    {
+      "user": {
+        "spotId": 6,
+        "firstName": "fsjdfn",
+        "lastName": "tvsjhtdj",
+        "email": "vfreeman312@gmail.com",
+        "phone": "rgtb"
+      },
+      "id": 17
+    },
+    {
+      "user": {
+        "spotId": 3,
+        "firstName": "jon",
+        "lastName": "hihb",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 18
+    },
+    {
+      "user": {
+        "spotId": 4,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 19
+    },
+    {
+      "user": {
+        "spotId": 3,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 20
+    },
+    {
+      "user": {
+        "spotId": 3,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 21
+    },
+    {
+      "user": {
+        "spotId": 2,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 22
+    },
+    {
+      "user": {
+        "spotId": 3,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 23
+    },
+    {
+      "user": {
+        "spotId": 3,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 24
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 25
+    },
+    {
+      "user": {
+        "spotId": 3,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 26
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 27
+    },
+    {
+      "user": {
+        "spotId": 4,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 28
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 29
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 30
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 31
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 32
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 33
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 34
+    },
+    {
+      "user": {
+        "spotId": 5,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 35
+    },
+    {
+      "user": {
+        "spotId": 2,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 36
+    },
+    {
+      "user": {
+        "spotId": 3,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 37
+    },
+    {
+      "user": {
+        "spotId": 2,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 38
+    },
+    {
+      "user": {
+        "spotId": 3,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 39
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 40
+    },
+    {
+      "user": {
+        "spotId": 4,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 41
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 42
+    },
+    {
+      "user": {
+        "spotId": 5,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 43
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 44
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 45
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 46
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 47
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 48
+    },
+    {
+      "user": {
+        "spotId": 3,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 49
+    },
+    {
+      "user": {
+        "spotId": 2,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 50
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 51
+    },
+    {
+      "user": {
+        "spotId": 1,
+        "firstName": "Vizente",
+        "lastName": "Freeman",
+        "email": "vizente.freeman@gmail.com",
+        "phone": ""
+      },
+      "id": 52
+    }
+  ]
 }

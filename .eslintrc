@@ -1,13 +1,22 @@
 {
-    "extends": "@spothero",
-    "overrides": [
-        {
-            "files": [
-                "**/*.spec.js"
-            ],
-            "rules": {
-                "max-nested-callbacks": 0
-            }
-        }
+  "extends": ["@spothero", "prettier", "prettier/react"],
+  "rules": {
+    "prettier/prettier": [
+      "error",
+      {
+        "trailingComma": "es5",
+        "singleQuote": true,
+        "printWidth": 80
+      }
     ]
+  },
+  "plugins": ["prettier"],
+  "overrides": [
+    {
+      "files": ["**/*.spec.js"],
+      "rules": {
+        "max-nested-callbacks": 0
+      }
+    }
+  ]
 }
